@@ -1,0 +1,27 @@
+.nav-sep{
+    border-right: 1px solid gray;
+}
+
+.hero{
+    background-image: url('../img/0530-CTFO-951-CM-GradSummerMoment-hero.webp');
+    height: 500px;
+    background-size: cover;
+}
+.content{
+    padding: 160px 0 0 80px;
+    color: white;
+    width: 690px;
+}
+
+.tag{
+    position: absolute;
+    top: 0;
+    background-color: rgb(235, 113, 0);
+    padding: 8px 26px;
+    color: white; 
+    border-radius: 16px 0 16px 0;
+}
+
+.card{
+    border-radius: 16px;
+}
